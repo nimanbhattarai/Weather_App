@@ -77,8 +77,3 @@
     font-size: 18px;
 }
 
-@media(max-width:412px){
-    .app{
-        background-color: #d4d5d4;
-    }
-}
